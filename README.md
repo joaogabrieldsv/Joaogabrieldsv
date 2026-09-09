@@ -45,7 +45,7 @@ Me chamo João Gabriel da Silva, tenho 19 anos e sou natural do Rio Grande do Su
     title="SQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/148140/database.svg"
+    src="https://cdn.jsdelivr.net/gh/tabler/tabler-icons@latest/icons/database.svg"
 />
 <br/>
 <br/>
