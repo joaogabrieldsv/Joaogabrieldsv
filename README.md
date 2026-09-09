@@ -39,14 +39,13 @@ Me chamo João Gabriel da Silva, tenho 19 anos e sou natural do Rio Grande do Su
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="SQL" 
+<img
+    align="left"
+    alt="SQL"
     title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.flaticon.com/br/icones-gratis/sql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
 />
-
 <br/>
 <br/>
