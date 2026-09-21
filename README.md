@@ -2,7 +2,6 @@
 <small> 
 Atualmente, curso Ciência da Computação na UNIJUÍ e venho desenvolvendo conhecimentos em Python, JavaScript, Node.js, Git e SQL. Também utilizo ferramentas de IA, como Claude Code e Cursor, como apoio ao desenvolvimento, explorando seu uso para análise de código, debugging, automação e aumento de produtividade. 
 </small>
----
 
 ### 🤖 Linguagens e Tecnologias
 
