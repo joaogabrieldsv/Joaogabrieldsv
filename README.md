@@ -1,8 +1,6 @@
 # **👩🏻‍💻 João Gabriel**
 
-Atualmente curso Ciência da Computação na UNIJUÍ e tenho interesse em desenvolvimento de software, automação e dados.
-Tenho experiência prática com Python, JavaScript, SQL, HTML/CSS, Git e APIs, desenvolvendo projetos para resolver problemas reais e automatizar processos.
-🚀 Atualmente estudando Node.js, backend, bancos de dados e integração de APIs.
+Atualmente, curso Ciência da Computação na UNIJUÍ e venho desenvolvendo conhecimentos em Python, JavaScript, Node.js, Git e SQL. Também utilizo ferramentas de IA, como Claude Code e Cursor, como apoio ao desenvolvimento, explorando seu uso para análise de código, debugging, automação e aumento de produtividade.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -47,6 +45,14 @@ Tenho experiência prática com Python, JavaScript, SQL, HTML/CSS, Git e APIs, d
     width="30px"
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/01130b5a-e4f7-4a4e-ab7f-47f71b2a5a3e"
+/>
+<img 
+    align="left"
+    alt="javascript"
+    title="javascript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://www.flaticon.com/br/icones-gratis/javascript"
 />
 <br/>
 <br/>
