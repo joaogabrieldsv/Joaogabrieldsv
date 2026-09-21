@@ -1,7 +1,8 @@
 # **👩🏻‍💻 João Gabriel**
 
-Me chamo João Gabriel da Silva, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação na UNIJUI. Atualmente, estou desenvolvendo meus conhecimentos em **Python e SQL**, buscando transformar conhecimentos acadêmicos em projetos práticos.
-
+Atualmente curso Ciência da Computação na UNIJUÍ e tenho interesse em desenvolvimento de software, automação e dados.
+Tenho experiência prática com Python, JavaScript, SQL, HTML/CSS, Git e APIs, desenvolvendo projetos para resolver problemas reais e automatizar processos.
+🚀 Atualmente estudando Node.js, backend, bancos de dados e integração de APIs.
 ---
 
 ### 🤖 Linguagens e Tecnologias
