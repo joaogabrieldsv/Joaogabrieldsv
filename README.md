@@ -52,7 +52,7 @@ Atualmente, curso Ciência da Computação na UNIJUÍ e venho desenvolvendo conh
     title="javascript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://www.flaticon.com/br/icones-gratis/javascript"
+    src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 />
 <br/>
 <br/>
